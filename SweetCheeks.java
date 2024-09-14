@@ -1,7 +1,7 @@
 public class SweetCheeks {
 
-    public void thisIsABetterOne() {
-        
+    public void thisIsBetter() {
+
     }
 
 }
