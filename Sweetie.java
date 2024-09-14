@@ -1,6 +1,6 @@
 public class Sweetie {
 
-    public void name() {
+    public void printName() {
 
     }
 }
